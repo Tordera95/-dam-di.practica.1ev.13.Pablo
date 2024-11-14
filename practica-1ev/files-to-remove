@@ -1,0 +1,4 @@
+src/assets/ClonarICon.vue  // Duplicado de src/assets/icons/ClonarIcon.vue
+src/constants.js           // Duplicado parcial de src/constants/events.js
+src/components/ReloadNotas.vue  // No se utiliza en ninguna parte
+src/components/DebbugerConsole.vue  // No se utiliza en ninguna parte 

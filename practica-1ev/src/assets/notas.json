@@ -1,0 +1,17 @@
+[
+    {
+      "id": "nota-001",
+      "titulo": "Primera nota",
+      "desc": "Descripción de la primera nota"
+    },
+    {
+      "id": "nota-002",
+      "titulo": "Segunda nota",
+      "desc": "Descripción de la segunda nota"
+    },
+    {
+      "id": "nota-003",
+      "titulo": "Tercera nota",
+      "desc": "Descripción de la tercera nota"
+    }
+  ]
